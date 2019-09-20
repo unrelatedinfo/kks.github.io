@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kks.productions/categories/</loc>
+    <loc>https://kks.productions/posts/first/</loc>
+    <lastmod>2019-09-20T14:35:36+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://kks.productions/</loc>
+    <lastmod>2019-09-20T14:35:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kks.productions/posts/</loc>
+    <lastmod>2019-09-20T14:35:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kks.productions/categories/</loc>
   </url>
   
   <url>
