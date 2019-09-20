@@ -6,10 +6,20 @@
     <description>Recent content on KKS Productions</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 20 Sep 2019 14:35:36 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2019 14:56:27 +0100</lastBuildDate>
     
 	<atom:link href="https://kks.productions/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Minimal Mix</title>
+      <link>https://kks.productions/posts/minimal-mix/</link>
+      <pubDate>Fri, 20 Sep 2019 14:56:27 +0100</pubDate>
+      
+      <guid>https://kks.productions/posts/minimal-mix/</guid>
+      <description>Mathias Dørum - Minimal
+ </description>
+    </item>
     
     <item>
       <title>First</title>
