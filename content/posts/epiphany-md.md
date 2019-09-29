@@ -1,5 +1,5 @@
 ---
-title: "Epiphany Md"
+title: "Epiphany - Mathias Dørum"
 date: 2019-09-29T14:37:39+01:00
 draft: false
 image: 'md_logo.jpg'
