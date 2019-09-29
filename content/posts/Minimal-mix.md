@@ -2,6 +2,7 @@
 title: "Mathias Dørum - Minimal Mix"
 date: 2019-09-20T14:56:27+01:00
 draft: false
+image: 'md_logo.jpg'
 ---
 
 Mathias Dørum - Minimal
