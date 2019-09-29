@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kks.productions/posts/darkscience_radio/</loc>
+    <lastmod>2019-09-29T12:37:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kks.productions/</loc>
+    <lastmod>2019-09-29T12:37:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kks.productions/posts/</loc>
+    <lastmod>2019-09-29T12:37:06+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kks.productions/about/</loc>
     <lastmod>2019-09-20T15:39:01+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kks.productions/</loc>
-    <lastmod>2019-09-20T15:39:01+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kks.productions/posts/minimal-mix/</loc>
-    <lastmod>2019-09-20T14:56:27+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kks.productions/posts/</loc>
     <lastmod>2019-09-20T14:56:27+01:00</lastmod>
   </url>
   
