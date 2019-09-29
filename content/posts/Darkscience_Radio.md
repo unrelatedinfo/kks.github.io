@@ -3,6 +3,7 @@ title: "Darkscience Radio"
 date: 2019-09-29T12:37:06+01:00
 draft: false
 tags: ["live", "radio"]
+image: 'ds_logo.png'
 ---
 
 # KKS Production Live
