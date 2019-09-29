@@ -23,11 +23,17 @@
   </url>
   
   <url>
-    <loc>https://kks.productions/categories/</loc>
+    <loc>https://kks.productions/tags/mixes/</loc>
+    <lastmod>2019-09-20T14:56:27+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://kks.productions/tags/</loc>
+    <lastmod>2019-09-20T14:56:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kks.productions/categories/</loc>
   </url>
   
 </urlset>
