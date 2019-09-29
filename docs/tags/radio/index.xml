@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KKS Productions</title>
-    <link>https://kks.productions/</link>
-    <description>Recent content on KKS Productions</description>
+    <title>radio on KKS Productions</title>
+    <link>https://kks.productions/tags/radio/</link>
+    <description>Recent content in radio on KKS Productions</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Sun, 29 Sep 2019 12:37:06 +0100</lastBuildDate>
     
-	<atom:link href="https://kks.productions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kks.productions/tags/radio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,17 +20,6 @@
       <description>KKS Production Live I am happy to announce that KKS Productions have been taken into the fold and stream live on DarkScience Radio.
 There is no set streaming schedule at the moment and this will come later.
 To see if it&amp;rsquo;s live and to tune in please go to https://radio.darkscience.net/</description>
-    </item>
-    
-    <item>
-      <title>Mathias Dørum - Minimal Mix</title>
-      <link>https://kks.productions/posts/minimal-mix/</link>
-      <pubDate>Fri, 20 Sep 2019 14:56:27 +0100</pubDate>
-      
-      <guid>https://kks.productions/posts/minimal-mix/</guid>
-      <description>Mathias Dørum - Minimal
-This is a very chill and laid back mix by Mathias Dørum.
- </description>
     </item>
     
   </channel>
