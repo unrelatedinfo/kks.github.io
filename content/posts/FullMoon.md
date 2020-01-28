@@ -2,6 +2,7 @@
 title: "Full Moon - Koh Phangan 2020 Live Set"
 date: 2020-01-28T11:02:58Z
 draft: false
+image: 'md_logo.jpg'
 tags: ["mixes"]
 ---
 
