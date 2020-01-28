@@ -3,42 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kks.productions/posts/fullmoon/</loc>
+    <lastmod>2020-01-28T11:02:58+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kks.productions/posts/epiphany-md/</loc>
     <lastmod>2019-09-29T14:37:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kks.productions/</loc>
-    <lastmod>2019-09-29T14:37:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kks.productions/tags/mixes/</loc>
-    <lastmod>2019-09-29T14:37:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kks.productions/posts/</loc>
-    <lastmod>2019-09-29T14:37:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kks.productions/tags/</loc>
-    <lastmod>2019-09-29T14:37:39+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kks.productions/posts/darkscience_radio/</loc>
-    <lastmod>2019-09-29T12:37:06+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kks.productions/tags/live/</loc>
-    <lastmod>2019-09-29T12:37:06+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kks.productions/tags/radio/</loc>
     <lastmod>2019-09-29T12:37:06+01:00</lastmod>
   </url>
   
@@ -49,6 +24,43 @@
   
   <url>
     <loc>https://kks.productions/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kks.productions/</loc>
+    <lastmod>2020-01-28T11:02:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kks.productions/tags/live/</loc>
+    <lastmod>2019-09-29T12:37:06+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kks.productions/tags/mixes/</loc>
+    <lastmod>2020-01-28T11:02:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kks.productions/posts/</loc>
+    <lastmod>2020-01-28T11:02:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kks.productions/tags/radio/</loc>
+    <lastmod>2019-09-29T12:37:06+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kks.productions/tags/</loc>
+    <lastmod>2019-09-29T12:37:06+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

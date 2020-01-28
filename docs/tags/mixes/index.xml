@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mixes on KKS Productions</title>
+    <title>Mixes on KKS Productions</title>
     <link>https://kks.productions/tags/mixes/</link>
-    <description>Recent content in mixes on KKS Productions</description>
+    <description>Recent content in Mixes on KKS Productions</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 29 Sep 2019 14:37:39 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2020 11:02:58 +0000</lastBuildDate>
     
 	<atom:link href="https://kks.productions/tags/mixes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Full Moon - Koh Phangan 2020 Live Set</title>
+      <link>https://kks.productions/posts/fullmoon/</link>
+      <pubDate>Tue, 28 Jan 2020 11:02:58 +0000</pubDate>
+      
+      <guid>https://kks.productions/posts/fullmoon/</guid>
+      <description>A brand new mix from Mathias Dørum
+ </description>
+    </item>
     
     <item>
       <title>Epiphany - Mathias Dørum</title>
