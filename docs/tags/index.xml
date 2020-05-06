@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on KKS Productions</title>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Live</title>
+      <title>live</title>
       <link>https://kks.productions/tags/live/</link>
       <pubDate>Wed, 19 Feb 2020 10:32:30 +0000</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Mixes</title>
+      <title>mixes</title>
       <link>https://kks.productions/tags/mixes/</link>
       <pubDate>Tue, 28 Jan 2020 11:02:58 +0000</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>Radio</title>
+      <title>radio</title>
       <link>https://kks.productions/tags/radio/</link>
       <pubDate>Sun, 29 Sep 2019 12:37:06 +0100</pubDate>
       
