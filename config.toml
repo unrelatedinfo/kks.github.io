@@ -1,0 +1,5 @@
+baseURL = 'https://kks.productions'
+languageCode = 'en-us'
+title = 'KKS.Productions'
+theme = 'eureka'
+publishDir = 'docs'

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://kks.productions/posts/hello-world/</loc>
+    <lastmod>2022-06-11T21:11:13+01:00</lastmod>
+  </url><url>
+    <loc>https://kks.productions/</loc>
+    <lastmod>2022-06-11T21:11:13+01:00</lastmod>
+  </url><url>
+    <loc>https://kks.productions/posts/</loc>
+    <lastmod>2022-06-11T21:11:13+01:00</lastmod>
+  </url><url>
+    <loc>https://kks.productions/categories/</loc>
+  </url><url>
+    <loc>https://kks.productions/tags/</loc>
+  </url>
+</urlset>
